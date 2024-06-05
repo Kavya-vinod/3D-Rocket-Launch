@@ -46,4 +46,4 @@ The "Rocket Launch" program provides a visually appealing and interactive simula
 14. `glEnable()`: Enables various capabilities, such as lighting or depth testing.
 15. `glDisable()`: Disables various capabilities.
 16. `glutSwapBuffers()`: Swaps the buffers of the current window, displaying the rendered image.
-17. `glutPostRedisplay()`: Marks the curre
+
